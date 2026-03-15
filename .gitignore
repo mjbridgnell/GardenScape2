@@ -1,0 +1,11 @@
+# Build output
+bin/
+
+# VSCode settings
+.vscode/
+
+# Local files
+*.dat
+
+# Java compiled files
+*.class
